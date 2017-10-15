@@ -1,5 +1,5 @@
 //Given a string array that contains cities of USA. Print every city that starts with A , O, C
-import java.util.Arrays;
+
 public class HW{
 
 	public static void main(String [] args){
