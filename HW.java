@@ -1,11 +1,10 @@
 //Given a string array that contains cities of USA. Print every city that starts with A , O, C
-
 public class HW{
 
 	public static void main(String [] args){
 
 	
-		String[] city = {"Aberdeen" , "Arlington" , "Allentown", "Oakdale" , "Oswego" , "Canton" , "Indianapolis", "Memphis" , "Minneapolis" , "Chicago" , "Tulsa" , "Portland" , "Orlando" , "Philadelphia" , "Dallas" , "Honolulu" , "Tampa" , "Miami" , "Nashville" , "Seattle"};
+		String[] city = {"Aberdeen" , "Arlington" , "Allentown", "Oakdale" , "Oswego" , "Canton" , "Indianapolis", "Memphis" , "Minneapolis" , "Chicago" , "Tulsa" , "Portland" , "Orlando" , "Philadelphia" , "Dallas" , "Honolulu" , "Tampa" , "Miami" , "Nashville" , "Seattle", "Baytown", "Blaine", "Boise", "Billings","Davenport", "Dayton", "Danbury"};
 
 		for(int i = 0; i<city.length; i++){ //loop through the array
 
