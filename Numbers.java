@@ -1,5 +1,5 @@
 /* Asks user for 2 numbers and gets the numbers in between however if the first number is smaller
-of larger than the second it ascends of decends respectively
+of larger than the second it ascends or decends respectively
 */
 
 import java.util.Scanner;
