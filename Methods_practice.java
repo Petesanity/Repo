@@ -25,7 +25,7 @@ public class Methods_practice{
 
 			System.out.println("Invalid Entry");
 		}
-		else if( year % 4 == 0 || year % 4 == 0 || year % 100 == 0 || year % 400 == 0){
+		else if( year % 4 == 0 || year % 4 == 0 && year % 100 == 0 && year % 400 == 0){
 
 			System.out.println("It is a leap year");
 		}
