@@ -14,6 +14,7 @@ public class Array_Methods{
 		return arr1;
 	}
 
+	/* Incorrect/incomplete will fix soon
 	public static void printArrReverse(String[] arr){ //method that prints a String array in reverse
 
 		String [] arr1 = new String[arr.length];
@@ -24,6 +25,7 @@ public class Array_Methods{
 		}
 		System.out.println(Arrays.toString(arr1));
 	}
+	*/
 	public static void printValTimesN(int n, int [] arr){ //method that prints array elements thatget multiplied by integer that was passed
 
 		for(int i : arr){
